@@ -1,5 +1,5 @@
 # Minecraft-1.21-Web
-A web runnable version of Minecraft 1.21.6.
+A web runnable version of Minecraft 1.21.8.
 
 TO THE MICROSOFT/MOJANG EMPLOYEE ASSIGNED TO STALK LAX1DUDE, THIS WAS NOT MADE BY HIM!
 
